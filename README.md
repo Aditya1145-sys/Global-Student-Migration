@@ -11,10 +11,14 @@ The primary objective of this notebook is to explores global student migration u
  2.) Geographic Student Information
 
  ![image alt](https://github.com/Aditya1145-sys/Global-Student-Migration/blob/20ebbb1fb6ff5ddfc58ec15c740ceee11954c847/newplot%20(1).png)
+
+ ![image alt](https://github.com/Aditya1145-sys/Global-Student-Migration/blob/dae20927f13a125b26c97eda5c554f4286fe2191/Screenshot%202025-09-07%20222121.png)
  
  3.) Student Field of Study Analysis
 
   ![image alt](https://github.com/Aditya1145-sys/Global-Student-Migration/blob/f403e9ee435ede6fd47a5c029bc297a293a89086/Screenshot%202025-09-07%20215325.png)
+
+  ![image alt](https://github.com/Aditya1145-sys/Global-Student-Migration/blob/7ea6b8b2c6aa9e36a106bde70b8af95be4087da4/Screenshot%202025-09-07%20222320.png)
  
  
  4.) Students Enrollment Over Years Analysis
