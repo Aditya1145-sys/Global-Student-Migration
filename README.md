@@ -9,14 +9,28 @@ The primary objective of this notebook is to explores global student migration u
    ![image alt](https://github.com/Aditya1145-sys/Global-Student-Migration/blob/67919776c3655873d3d2d7408e69a26d0b026273/origin%20counties%20of%20intl%20Student.png)
 
  2.) Geographic Student Information
+
+ ![image alt](https://github.com/Aditya1145-sys/Global-Student-Migration/blob/20ebbb1fb6ff5ddfc58ec15c740ceee11954c847/newplot%20(1).png)
  
  3.) Student Field of Study Analysis
+
+  ![image alt](https://github.com/Aditya1145-sys/Global-Student-Migration/blob/f403e9ee435ede6fd47a5c029bc297a293a89086/Screenshot%202025-09-07%20215325.png)
+ 
  
  4.) Students Enrollment Over Years Analysis
+
+ ![image alt](https://github.com/Aditya1145-sys/Global-Student-Migration/blob/491afd99e09d68f02224aba87662d6c5f90e4fdf/Screenshot%202025-09-07%20215417.png)
  
  5.) Student Scholarship Analysis
+
+ ![image alt](https://github.com/Aditya1145-sys/Global-Student-Migration/blob/76f5cf9a1428dd0e728f8d4c8d7dde452bd4d019/Screenshot%202025-09-07%20215440.png)
+
+
+ ![image alt](https://github.com/Aditya1145-sys/Global-Student-Migration/blob/80b871c71a9470d2a34cf97368cfff01296abac5/Screenshot%202025-09-07%20220626.png)
  
  6.) Enrollment Reason Among the Student
+
+ ![image alt](https://github.com/Aditya1145-sys/Global-Student-Migration/blob/3e60ec5547a2ee8d6a4d77e00aa1769f8006b27e/Screenshot%202025-09-07%20215530.png)
 
 
 # Key Findings
