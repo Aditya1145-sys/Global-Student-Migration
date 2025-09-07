@@ -1,15 +1,21 @@
 # Global-Student-Migration
 
 -- Introduction
+
 The primary objective of this notebook is to explores global student migration using the "Global Student Migration and Higher Education Trends" dataset. It examines where international students come from, where they go, what they study, and why they choose certain universities. Through data analysis and visualizations, we uncover key trends, top destinations, popular fields of study, and factors influencing student choices, such as scholarships and university reputation.
 
 # Exploratory Data Analysis
 
  1.) Student Demographics
+
  2.) Geographic Student Information
+ 
  3.) Student Field of Study Analysis
+ 
  4.) Students Enrollment Over Years Analysis
+ 
  5.) Student Scholarship Analysis
+ 
  6.) Enrollment Reason Among the Student
 
 
