@@ -5,6 +5,7 @@ The primary objective of this notebook is to explores global student migration u
 # Exploratory Data Analysis
 
  1.) Student Demographics
+   ![image alt](https://github.com/Aditya1145-sys/Global-Student-Migration/blob/67919776c3655873d3d2d7408e69a26d0b026273/origin%20counties%20of%20intl%20Student.png)
 
  2.) Geographic Student Information
  
